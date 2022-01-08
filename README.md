@@ -11,4 +11,4 @@ This is my solution to all the programming assignments  of Reinforcement Learnin
 * final reports
 
 ## References
-[[1] Machine Learning - Polytechnique Montreal](https://chandar-lab.github.io/INF8953DE/)
+[[1] Reinforcement Learning - Polytechnique Montreal](https://chandar-lab.github.io/INF8953DE/)
